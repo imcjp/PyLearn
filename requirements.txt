@@ -1,0 +1,12 @@
+# Jupyter and related tools
+jupyter               # Interactive computing environment for creating and sharing documents containing code, equations, and visualizations
+ipykernel             # Python kernel for Jupyter, allowing the execution of Python code within Jupyter notebooks
+
+# Data analysis tools
+pandas                # Data manipulation and analysis library, particularly for handling structured data (e.g., tables)
+numpy                 # Library for numerical computations, supporting large, multi-dimensional arrays and matrices
+matplotlib            # Plotting library for creating static, animated, and interactive visualizations
+
+# Other useful tools
+requests              # Library for making HTTP requests, simplifying interaction with web services
+pytest                # Testing framework for writing and running tests for your code
