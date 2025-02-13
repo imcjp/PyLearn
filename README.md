@@ -22,7 +22,7 @@
 
 #### 如何使用：
 1. 下載本項目壓縮包，解壓並進入項目目錄。
-2. 訪問 Python 官方網站（[https://www.python.org/downloads/](https://www.python.org/downloads/)），下載並安裝 Python，注意勾選“將 Python 添加到系統路徑”選項。
+2. 訪問 Python 官方網站（[https://www.python.org/downloads/](https://www.python.org/downloads/)），下載並安裝 Python，注意勾選“**將 Python 添加到系統路徑**”選項。
 3. 解壓運行其中“**安裝.bat**”。此過程務必保持良好網絡，需要等待一段時間，同時最好不要在低性能的 USB 上安裝。
 4. 通過“**啟動 Jupyter.bat**”運行軟體，正確啟動後將會在瀏覽器看到軟體的運行。
 5. 在啟動狀態下關閉瀏覽器不會真正停止軟體，只有關閉彈出到控制台才停止；如果關閉瀏覽器，可以通過“**打開 Jupyter**”圖標再次打開。
